@@ -4,7 +4,7 @@
 ![React](https://img.shields.io/badge/React-18.2-blue)
 ![PGlite](https://img.shields.io/badge/PGlite-0.6.4-orange)
 
-[Screenshot 2025-05-25 134523](https://github.com/user-attachments/assets/bbd941bd-a9f2-4ccc-b633-9fabf182ce9d)
+![Screenshot 2025-05-25 134523](https://github.com/user-attachments/assets/b138a479-b586-4244-86ac-a7b5c00883ef)
 
 
 A full-featured patient management application with offline capabilities, built with React and PGlite (PostgreSQL in the browser).
