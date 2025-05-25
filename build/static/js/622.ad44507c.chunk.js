@@ -1,0 +1,1 @@
+(self.webpackChunkpatient_management_app=self.webpackChunkpatient_management_app||[]).push([[622],{622:()=>{}}]);
